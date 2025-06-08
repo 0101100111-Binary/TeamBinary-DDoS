@@ -36,7 +36,9 @@ How long to run (in seconds):
 
 Example:
 
+```bash
 Enter server IP: 127.0.0.1
 Enter server port (default is 19132): 19132
 How many threads (bots): 5
 How long to run (in seconds): 100
+```
