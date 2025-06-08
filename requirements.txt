@@ -1,5 +1,5 @@
-pyfiglet
 os
 socket
 threading
 time
+pyfiglet
