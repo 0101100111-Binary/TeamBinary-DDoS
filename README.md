@@ -24,3 +24,19 @@ Update Termux Packages
 ```pip3 install -r requirements.txt```
 
 ```python3 TeamBinary-DDoS.py```
+
+## It'll ask you this
+
+```bash
+Enter server IP:
+Enter server port (default is 19132):
+How many threads (bots): 
+How long to run (in seconds):
+```
+
+Example:
+
+Enter server IP: 127.0.0.1
+Enter server port (default is 19132): 19132
+How many threads (bots): 5
+How long to run (in seconds): 100
