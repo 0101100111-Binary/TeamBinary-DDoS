@@ -17,7 +17,7 @@ Update Termux Packages
 
 ```pkg install python3```
 
-```git clone https://github.com/0101100111-Binary/TeamBinary-DDoS/tree/main```
+```git clone https://github.com/0101100111-Binary/TeamBinary-DDoS/```
 
 ```cd TeamBinary-DDoS```
 
