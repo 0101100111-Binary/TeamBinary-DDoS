@@ -61,7 +61,9 @@ sudo apt install python3
 sudo apt install python-pip
 ```
 
-```git clone https://github.com/0101100111-Binary/TeamBinary-DDoS/```
+```bash
+git clone https://github.com/0101100111-Binary/TeamBinary-DDoS/
+```
 
 ```bash
 cd TeamBinary-DDoS
